@@ -15,4 +15,4 @@ Also, I have included three favorite circles that I like how they look. You clic
 then the circle you chose will appear.
 
 Possible bugs:
-Sometimes the red color goes out of range.
+Sometimes the red color goes out of range- this gives an error in the terminal, but the program still runs fine.
