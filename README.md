@@ -4,7 +4,7 @@ Hello! My name is Marina Seheon and this is my Times Table Visualization for Pro
 
 Functionality:
 I made a program where you can run different times tables visualizations. You can run them randomly, or jump
-to a specific one, or choose to go to your favorite visualization.
+to a specific one, or choose to go to your favorite visualization. I used the skeleton from CS251L last year.
 When you click the start button, the circle will start at a times table number and increment up at a certain speed,
 the circle will be in different colors. You can change how fast the circle times table number is incrementing by
 the slider labeled as "Increment by" and you can change the speed of how fast the circle moves by the "Delay By(seconds)
